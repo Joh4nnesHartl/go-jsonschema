@@ -1,5 +1,5 @@
-github.com/Joh4nnesHartl/go-jsonschema v0.8.0 h1:h/Wskl4obGjWgbcEj4N8RdlfpyYlFAOZAijonbrLlAk=
-github.com/Joh4nnesHartl/go-jsonschema v0.8.0/go.mod h1:9ujdFcg96lOu4RQrTU4qlAXEhOW60/5rokqLz4X7e2Y=
+github.com/Joh4nnesHartl/go-jsonschema v0.8.3 h1:l8Mz8WBlu+U8C9vjEuO+nVNcuM0Myv/QN3zENMkDVs4=
+github.com/Joh4nnesHartl/go-jsonschema v0.8.3/go.mod h1:ELLYHL3Y3V1M+F9cwKhqK+E9HsN+YjQ6B0rTR+C7EeY=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/inconshreveable/mousetrap v1.0.0 h1:Z8tu5sraLXCXIcARxBp/8cbvlwVa7Z1NHg9XEKhtSvM=
