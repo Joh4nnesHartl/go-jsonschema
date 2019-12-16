@@ -10,6 +10,6 @@ require (
 	github.com/stretchr/testify v1.4.0 // indirect
 )
 
-replace github.com/atombender/go-jsonschema => github.com/Joh4nnesHartl/go-jsonschema v0.8.0
+replace github.com/atombender/go-jsonschema => github.com/Joh4nnesHartl/go-jsonschema v0.8.3
 
 go 1.13
