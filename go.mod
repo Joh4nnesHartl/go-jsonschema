@@ -7,4 +7,6 @@ require (
 	github.com/spf13/cobra v0.0.3
 )
 
+replace github.com/atombender/go-jsonschema => github.com/Joh4nnesHartl/go-jsonschema latest
+
 go 1.13
